@@ -1,9 +1,10 @@
 {
-  "BOTNAME": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔 𝐁𝐎𝐓",
-  "BOTNICK": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔",
+  "BOTNAME": "𝐀𝐌𝐀𝐍'𝐒 𝐉𝐀𝐍𝐔 𝐁𝐎𝐓",
+  "BOTNICK": "𝐀𝐌𝐀𝐍'𝐒 𝐉𝐀𝐍𝐔",
   "PREFIX": ".",
   "ADMINBOT": [
-    "61573781736874"
+    "61573781736874",
+    "61566606977914"
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
